@@ -10,6 +10,7 @@ Dataset yang digunakan untuk proyek ini terdiri dari gambar lima pemandangan lan
 - Hutan
 - Laut
 - Jalan
+
 Dataset dapat ditemukan di folder Dataset. Dataset ini dibagi menjadi dua subfolder: data-pelatihan dan data-pengujian, yang berisi masing-masing gambar untuk pelatihan dan pengujian.
 
 ## Contributors
